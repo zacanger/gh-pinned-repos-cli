@@ -1,7 +1,7 @@
 {
   "name": "gh-pinned-repos-cli",
   "description": "cli for gh-pinned-repos",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Zac Anger",
     "email": "zac@zacanger.com",
@@ -9,6 +9,7 @@
   },
   "license": "WTFPL",
   "main": "index.js",
+  "bin": "./index.js",
   "scripts": {
     "start": "node index",
     "test": ""
