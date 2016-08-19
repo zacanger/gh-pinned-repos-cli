@@ -1,0 +1,30 @@
+{
+  "name": "gh-pinned-repos-cli",
+  "description": "cli for gh-pinned-repos",
+  "version": "0.0.1",
+  "author": {
+    "name": "Zac Anger",
+    "email": "zac@zacanger.com",
+    "url": "http://zacanger.com"
+  },
+  "license": "WTFPL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": ""
+  },
+  "homepage": "https://github.com/zacanger/gh-pinned-repos-cli#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zacanger/gh-pinned-repos-cli.git"
+  },
+  "bugs": "https://github.com/zacanger/gh-pinned-repos-cli/issues",
+  "keywords": [
+    "github",
+    "repos"
+  ],
+  "dependencies": {
+    "gh-pinned-repos": "^1.0.0"
+  },
+  "devDependencies": {}
+}
